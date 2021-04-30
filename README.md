@@ -1,6 +1,5 @@
-# Research Track I - Final_Assignment
+# Research Track I - Final_Assignment (Done by Celestie s5054512 )
 ## Overview
-![alt text](https://github.com/sh075/final_assignment/blob/main/Screenshot%202021-03-05%20172205.png?raw=true)
 
 **Robot exhibits the following behaviour based on the user's input:** 
 1. Move randomly in the environment and reach the random coordinates.
@@ -36,9 +35,3 @@ Finally, type the following command to execute the User Interface:
 ```
 roslaunch final_assignment robot_launch.launch
 ```
-
-
-
-# Requirements
-- Ubuntu (Linux) or Docker Image https://hub.docker.com/r/carms84/rpr
-- ROS (Robot Operating System) http://wiki.ros.org/
